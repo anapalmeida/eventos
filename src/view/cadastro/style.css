@@ -1,0 +1,21 @@
+.form-login {
+  max-width: 450px;
+}
+
+.btn-cadastro {
+  background-color: #614ea6;
+  color: #fff;
+
+  width: 100%;
+
+  transition: 0.3s ease-in;
+}
+
+.btn-cadastro:hover {
+  background-color: #52418f;
+  color: #fff;
+
+  box-shadow: 13px 20px 60px -8px rgba(0, 0, 0, 0.17);
+  -webkit-box-shadow: 13px 20px 60px -8px rgba(0, 0, 0, 0.17);
+  -moz-box-shadow: 13px 20px 60px -8px rgba(0, 0, 0, 0.17);
+}
